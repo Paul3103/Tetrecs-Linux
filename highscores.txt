@@ -1,0 +1,10 @@
+Paul:10000
+Paul:9000
+Paul:8000
+Paul:7000
+Paul:6000
+Paul:5000
+Paul:4000
+Paul:3000
+Paul:2000
+Paul:1000

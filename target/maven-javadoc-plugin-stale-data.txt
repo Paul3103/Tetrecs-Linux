@@ -1,0 +1,56 @@
+@options
+@packages
+@argfile
+--class-path
+'C:/Users/paulw/.m2/repository/org/openjfx/javafx-controls/17.0.2/javafx-controls-17.0.2.jar;C:/Users/paulw/.m2/repository/org/openjfx/javafx-graphics/17.0.2/javafx-graphics-17.0.2.jar;C:/Users/paulw/.m2/repository/org/openjfx/javafx-fxml/17.0.2/javafx-fxml-17.0.2.jar;C:/Users/paulw/.m2/repository/org/openjfx/javafx-media/17.0.2/javafx-media-17.0.2.jar;C:/Users/paulw/.m2/repository/org/apache/logging/log4j/log4j-core/2.17.1/log4j-core-2.17.1.jar;C:/Users/paulw/.m2/repository/org/jetbrains/annotations/23.0.0/annotations-23.0.0.jar;C:/Users/paulw/.m2/repository/org/openjfx/javafx-base/17.0.2/javafx-base-17.0.2.jar'
+--module-path
+'C:/Users/paulw/.m2/repository/org/apache/logging/log4j/log4j-api/2.17.1/log4j-api-2.17.1.jar;C:/Users/paulw/.m2/repository/org/openjfx/javafx-controls/17.0.2/javafx-controls-17.0.2-win.jar;C:/Users/paulw/.m2/repository/org/openjfx/javafx-media/17.0.2/javafx-media-17.0.2-win.jar;D:/Documents/DesktopFiles/Southampton/comp1206/tetrecscoursework/coursework/target/classes;C:/Users/paulw/.m2/repository/com/neovisionaries/nv-websocket-client/2.14/nv-websocket-client-2.14.jar;C:/Users/paulw/.m2/repository/org/openjfx/javafx-fxml/17.0.2/javafx-fxml-17.0.2-win.jar;C:/Users/paulw/.m2/repository/org/openjfx/javafx-graphics/17.0.2/javafx-graphics-17.0.2-win.jar;C:/Users/paulw/.m2/repository/org/openjfx/javafx-base/17.0.2/javafx-base-17.0.2-win.jar'
+--patch-module
+uk.ac.soton.comp1206='D:/Documents/DesktopFiles/Southampton/comp1206/tetrecscoursework/coursework/src/main/java'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+--module-source-path
+'D:/Documents/DesktopFiles/Southampton/comp1206/tetrecscoursework/coursework/target/site/apidocs/src'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Documents/DesktopFiles/Southampton/comp1206/tetrecscoursework/coursework/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'tetrecs 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'tetrecs 1.0-SNAPSHOT API'
+uk.ac.soton.comp1206
+uk.ac.soton.comp1206.component
+uk.ac.soton.comp1206.event
+uk.ac.soton.comp1206.game
+uk.ac.soton.comp1206.network
+uk.ac.soton.comp1206.scene
+uk.ac.soton.comp1206.ui
+'D:/Documents/DesktopFiles/Southampton/comp1206/tetrecscoursework/coursework/src/main/java/module-info.java'
+D:\Documents\DesktopFiles\Southampton\comp1206\tetrecscoursework\coursework\target\site\apidocs\allclasses-index.html = 1651149693775
+D:\Documents\DesktopFiles\Southampton\comp1206\tetrecscoursework\coursework\target\site\apidocs\allpackages-index.html = 1651149693777
+D:\Documents\DesktopFiles\Southampton\comp1206\tetrecscoursework\coursework\target\site\apidocs\constant-values.html = 1651149693649
+D:\Documents\DesktopFiles\Southampton\comp1206\tetrecscoursework\coursework\target\site\apidocs\element-list = 1651149693592
+D:\Documents\DesktopFiles\Southampton\comp1206\tetrecscoursework\coursework\target\site\apidocs\help-doc.html = 1651149693808
+D:\Documents\DesktopFiles\Southampton\comp1206\tetrecscoursework\coursework\target\site\apidocs\index-all.html = 1651149693804
+D:\Documents\DesktopFiles\Southampton\comp1206\tetrecscoursework\coursework\target\site\apidocs\index.html = 1651149693805
+D:\Documents\DesktopFiles\Southampton\comp1206\tetrecscoursework\coursework\target\site\apidocs\jquery-ui.overrides.css = 1651149693834
+D:\Documents\DesktopFiles\Southampton\comp1206\tetrecscoursework\coursework\target\site\apidocs\member-search-index.js = 1651149693780
+D:\Documents\DesktopFiles\Southampton\comp1206\tetrecscoursework\coursework\target\site\apidocs\module-search-index.js = 1651149693778
+D:\Documents\DesktopFiles\Southampton\comp1206\tetrecscoursework\coursework\target\site\apidocs\overview-tree.html = 1651149693757
+D:\Documents\DesktopFiles\Southampton\comp1206\tetrecscoursework\coursework\target\site\apidocs\package-search-index.js = 1651149693778
+D:\Documents\DesktopFiles\Southampton\comp1206\tetrecscoursework\coursework\target\site\apidocs\script.js = 1651149693811
+D:\Documents\DesktopFiles\Southampton\comp1206\tetrecscoursework\coursework\target\site\apidocs\search.js = 1651149693813
+D:\Documents\DesktopFiles\Southampton\comp1206\tetrecscoursework\coursework\target\site\apidocs\stylesheet.css = 1651149693810
+D:\Documents\DesktopFiles\Southampton\comp1206\tetrecscoursework\coursework\target\site\apidocs\tag-search-index.js = 1651149693781
+D:\Documents\DesktopFiles\Southampton\comp1206\tetrecscoursework\coursework\target\site\apidocs\type-search-index.js = 1651149693779
